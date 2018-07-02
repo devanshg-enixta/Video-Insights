@@ -1,0 +1,9 @@
+product_id,source_product_name,city,category,URLS
+2600006,Luxembourg Gardens,Paris,nature_parks,https://www.youtube.com/watch?v=fQAAMSedWS0
+2600023,Buckingham Palace,London,nature_parks,https://www.youtube.com/watch?v=T_8kE_JFUhY
+2500009,Eiffel Tower,Paris,landmarks,https://www.youtube.com/watch?v=pvZRgAZ2g6c
+2500021,Churchill War Rooms,London,landmarks,https://www.youtube.com/watch?v=bEC-a8CKHJ8
+2700023,Thames Rockets,London,outdoor_activities,https://www.youtube.com/watch?v=n3xy6sp3iqg
+2700011,Fat Tire Tours Berlin,Berlin,outdoor_activities,https://www.youtube.com/watch?v=qYKkulHdfHY
+2800006,Musee d'Orsay,Paris,museum,https://www.youtube.com/watch?v=nwSMOrwH9IA
+2800021,National Gallery,London,museum,https://www.youtube.com/watch?v=TsSKnRIk0S8
